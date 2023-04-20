@@ -1,2 +1,2 @@
 # Random-Quote-Generator
-Random Quote Generator with api
+Random Quote Generator with API
